@@ -111,6 +111,18 @@ body {
   to { transform: rotate(360deg); }
 }
 
+.dog-chase {
+  width: 130px;
+  height: 130px;
+  margin: 0 auto 16px;
+}
+
+.dog-chase img {
+  width: 100%;
+  height: 100%;
+  image-rendering: pixelated;
+}
+
 h1 {
   font-size: 42px;
   font-weight: 800;
